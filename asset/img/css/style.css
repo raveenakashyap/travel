@@ -1,0 +1,144 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.mb-2{
+    margin-bottom: 5.5rem !important;
+}
+.mt{
+    height: 12rem;
+}
+.second{
+    height: 4rem !important;
+    
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.third{
+    height: 4rem !important;
+    background-color: gray;  
+}
+.radio{
+    display: inline;
+    padding: 2rem;
+    margin-top: 2rem;
+}
+.icon1{
+    font-size: 2rem !important;
+    color:   #55acee;
+}
+.icon2{
+    font-size: 2rem !important;
+    color:  #fe492b;;
+}
+.icon3{
+    font-size: 2rem !important;
+    color: #3b5998;
+}
+.icon4{
+    font-size: 2rem !important;
+    color: #e02f2f;
+}
+.bg{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.bg-2{
+    background-color: #fff;
+    color: red;
+
+}
+.center{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    background-color: #fff;
+    font-size: 1rem;
+    background-color: #fe492b ;
+    color: #fff;
+}
+.line{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    padding-top: 2rem;
+}
+.hidden{
+    list-style: none;
+}
+.display{
+    display: flex;
+    justify-content: center;
+}
+.text{
+   text-align: justify;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+   
+}
+ol{
+    list-style: none;
+}
+ol li:hover{
+color: #fe492b;
+
+}
+.clr{
+    color: #fe492b;
+}
+.icon5{
+    font-size: 3rem !important;
+    color:   #55acee;
+}
+.icon6{
+    font-size: 3rem !important;
+    color:  #fe492b;;
+}
+.icon7{
+    font-size: 3rem !important;
+    color: #3b5998;
+}
+.icon8{
+    font-size: 3rem !important;
+    color: #e02f2f;
+}
+.mar{
+    margin-top: 3rem !important;
+}
+.nav-pad{
+    padding: 10px;
+}
+
+
+/*  */
+.bg{
+    background-color: #fe492b;
+    border-radius: 0 0 5px 5px ;
+    padding: 17px 15px;
+    line-height: 36px;
+    color: #fff;
+  }
+  .bc{
+    background-color: #8b8a89;
+    border-radius: 0 0 5px 5px ;
+    padding: 15px 10px;
+    line-height: 30px;
+    color: #fff;
+    margin: 0 3px  0;
+    
+  }
+.mm{
+    border: 1px solid black;
+    
+}
